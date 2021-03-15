@@ -1,0 +1,2 @@
+def rs(graph):
+    return
